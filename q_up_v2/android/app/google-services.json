@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "891083848231",
+    "firebase_url": "https://queue-up-6d44b.firebaseio.com",
+    "project_id": "queue-up-6d44b",
+    "storage_bucket": "queue-up-6d44b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:891083848231:android:06f5e903672b646cb7ac02",
+        "android_client_info": {
+          "package_name": "com.example.queue_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "891083848231-dfnkau9ejpecnts0r06bm5buvbqt3im7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXNsIWpHiN4tk407yTWt4UTiwGxX0lHc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "891083848231-dfnkau9ejpecnts0r06bm5buvbqt3im7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
